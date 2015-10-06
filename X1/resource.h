@@ -1,0 +1,123 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by X1.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_X1_DIALOG                   102
+#define IDR_MAINFRAME                   128
+#define IDR_MENU                        129
+#define IDD_INTERNAL_DIALOG             130
+#define IDD_IST_LOAD_DIALOG             131
+#define IDD_IST_GEN_DIALOG              132
+#define IDR_241                         133
+#define IDB_PNG1                        142
+#define IDB_SMART_PNG                   142
+#define IDB_READER_BITMAP               145
+#define IDB_SMARTCARD_BITMAP            146
+#define IDB_TREE                        147
+#define IDD_DBMAN_DIALOG                148
+#define IDD_INPUT_DLG                   149
+#define IDD_DIALOG1                     150
+#define IDD_CONFIRM_DIALOG              150
+#define IDC_STATIC_TITLE                1000
+#define IDC_BURN_BUTTON                 1001
+#define IDC_STATIC_AREA                 1002
+#define IDC_DEDIT_BUTTON                1002
+#define IDC_RB_MASTER_RADIO             1003
+#define IDC_RB_MASTER2_RADIO            1004
+#define IDC_RB_AMEX_RADIO               1005
+#define IDC_RB_X_RADIO                  1006
+#define IDC_RB_VISA2_RADIO              1007
+#define IDC_RB_DEBIT1_RADIO             1008
+#define IDC_RB_DEBIT2_RADIO             1009
+#define IDC_RB_6036_RADIO               1010
+#define IDC_TRACK2_EDIT                 1011
+#define IDC_HOLDERNAME_EDIT             1012
+#define IDC_EMPTY_HOLDERNAME_CHECK      1013
+#define IDC_APP_LABEL_EDIT              1014
+#define IDC_INFO_TREE                   1014
+#define IDC_TRACK1_EDIT                 1015
+#define IDC_TAG_STATIC                  1015
+#define IDC_DESC_STATIC                 1016
+#define IDC_CHNAGE_TRACK1DISCR_CHECK    1016
+#define IDC_DATA_LEN_STATIC             1017
+#define IDC_VALUE_EDIT                  1018
+#define IDC_CURRENCY_EDIT               1018
+#define IDC_DECODE_BUTTON               1019
+#define IDC_ARQC1_EDIT                  1019
+#define IDC_DECODE_EDIT                 1020
+#define IDC_ARQC2_EDIT                  1020
+#define IDC_MODIFY_BUTTON               1021
+#define IDC_LOAD_BUTTON                 1022
+#define IDC_ARQC3_EDIT                  1022
+#define IDC_SAVE_TREEINFO_BUTTON        1023
+#define IDC_PATH_STATIC                 1024
+#define ID_GEN_IST_BTN                  1025
+#define ID_SAVEIST_BTN                  1026
+#define ID_CARDREAD_BTN                 1026
+#define IDC_EDIT1                       1027
+#define IDC_IST_PATH_EDIT               1027
+#define IDC_BANK_EDIT                   1027
+#define IDC_SEARCH_VALUE_EDIT           1027
+#define IDC_PREF_NAME_EDIT              1027
+#define IDC_NAME_EDIT                   1027
+#define IDC_BROWSER_BUTTON              1028
+#define IDC_BIN_EDIT                    1028
+#define IDC_EFFECTIVE_DATE_EDIT         1028
+#define IDC_EXP_EDIT                    1029
+#define IDC_EXPIRATION_DATE_EDIT        1029
+#define IDC_CODE_EDIT                   1030
+#define IDC_TRACK1_EDIT2                1031
+#define IDC_STATIC_PIC                  1032
+#define IDC_TRACK2_EDIT2                1032
+#define IDC_CREDIT_BUTTON               1033
+#define IDC_COUNTRY_EDIT                1033
+#define IDC_CARDTYPE_EDIT               1034
+#define IDC_BANK_EDIT2                  1034
+#define IDC_CARDTYPE_EDIT2              1035
+#define IDC_COUNTRY_EDIT2               1035
+#define IDC_STORE_DB_BUTTON             1036
+#define IDC_BIN_EDIT2                   1036
+#define IDC_COUNTRY_EDIT3               1036
+#define IDC_AID_EDIT                    1036
+#define IDC_SEARCH_FIELD_COMBO          1037
+#define IDC_EXP_EDIT2                   1038
+#define IDC_CODE_EDIT2                  1039
+#define IDC_DB_TRACK1_EDIT              1040
+#define IDC_DB_TRACK2_EDIT              1041
+#define IDC_PERV_BUTTON                 1042
+#define IDC_NEXT_BUTTON                 1043
+#define IDC_SEARCH_BUTTON               1044
+#define IDC_UPDATE_BUTTON               1045
+#define IDC_DELETE_BUTTON               1046
+#define IDC_EQUAL_MODE_COMBO            1047
+#define IDC_LENGTH_EDIT                 1048
+#define IDC_LENGTH_EDIT2                1048
+#define IDC_STATIC_RESULT               1049
+#define IDC_ARQC_UNIQUE                 1050
+#define IDC_ARQC_THREE                  1051
+#define IDC_CHANGE_CHECK1               1052
+#define IDC_CHANGE_CHECK2               1053
+#define IDC_CHANGE_CHECK3               1054
+#define IDC_IST_GEN_BUTTON              1055
+#define IDC_SAVE_BUTTON                 1058
+#define IDC_CARDDATA_COMBO              1060
+#define ID_FILE_EXIT                    32771
+#define ID_MODE_INTERNAL                32772
+#define ID_MODE_ISTGENERATE             32773
+#define ID_MODE_ISTLOAD                 32774
+#define ID_HELP_ABOUT                   32775
+#define ID_MODE_MANAGEDB                32776
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        151
+#define _APS_NEXT_COMMAND_VALUE         32777
+#define _APS_NEXT_CONTROL_VALUE         1062
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
